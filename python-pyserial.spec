@@ -1,6 +1,6 @@
 Name:		python-pyserial
 Version:	3.5
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/p/pyserial/pyserial-%{version}.tar.gz
 Summary:	Python Serial Port Extension
 URL:		https://pypi.org/project/pyserial/
